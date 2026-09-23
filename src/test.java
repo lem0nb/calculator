@@ -10,7 +10,7 @@ public class test {
     public static void test2() {
         double nd = 0.0;
         float nf = 0.0F;
-        System.out.println("0.01*100:"+0.1F*100);
+        System.out.println("0.01*100:"+0.01F*100);
         for (int i=0;i<100;i++) {
             nd += 0.01;
             nf += 0.01F;
